@@ -52,7 +52,3 @@ Research Intern at **DVRC (De Vinci Research Center)** specialising in the envir
 - **English** — C1 level
 - **French** — B1 level
 - **Hindi** — Native
-
----
-
-⭐ *Check out my [portfolio website](https://manpatell.github.io/manpatell/) for more details!*
