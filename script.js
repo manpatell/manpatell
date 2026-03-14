@@ -3,10 +3,10 @@
 // ============================
 const typedEl = document.getElementById('typedText');
 const phrases = [
-  'AI / ML Developer',
-  'Web3 Builder',
-  'Full‑Stack Developer',
-  'XAI Researcher',
+  'Research Intern in NoSQL Optimization',
+  'Machine Learning Engineer',
+  'AI Governance Specialist',
+  'Data Scientist',
 ];
 
 let phraseIndex = 0;
@@ -105,7 +105,7 @@ navMenu.querySelectorAll('a').forEach(link => {
 // Scroll-reveal animation
 // ============================
 const revealEls = document.querySelectorAll(
-  '.skill-card, .project-card, .contact-card, .about-grid, .about-facts li'
+  '.skill-card, .project-card, .contact-card, .about-grid, .about-facts li, .experience-card, .education-card, .credentials-list'
 );
 
 revealEls.forEach(el => el.classList.add('reveal'));
