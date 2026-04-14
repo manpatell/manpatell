@@ -11,7 +11,6 @@ Research Intern at **DVRC (De Vinci Research Center)** specialising in the envir
 
 ### 🎓 Education
 - **ESILV – Ecole Supérieure d'Ingénieurs Léonard de Vinci** — Master of Engineering in Data & AI (2024–2026)
-- **RK University** — Bachelor of Computer Applications (2019–2022)
 
 ### 💼 Experience
 - **DVRC** — Research Intern (02/2026 – Present)
