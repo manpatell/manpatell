@@ -13,7 +13,7 @@
 - 📄 **WISE 2026** — Demo paper (first author): DaMOop 2.0, cost-aware data model selection across heterogeneous databases
 
 ### 🔭 What I'm Working On
-- 🎥 **Teaching AI & ML** — short visual explainers for beginners as [@manpatel.ml](https://instagram.com/manpatel.ml) on Instagram (one reel passed 2M views), now expanding to YouTube
+- 🎥 **Teaching AI & ML** — short visual explainers for beginners as [@manpatel.ml](https://instagram.com/manpatel.ml) on Instagram, now expanding to YouTube
 - 🌱 **Garden** — an AI-native planner app for Android, with a synced web version
 
 ### 🎓 Education
